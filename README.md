@@ -1,4 +1,4 @@
-# helmet
+# Helmet
 Application for Helmet compliance
 
 Source code for Helmet identification
