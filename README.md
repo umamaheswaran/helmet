@@ -2,6 +2,8 @@
 150,000 people are killed each year in traffic accidents in India. 
 Almost 400 people die everyday in road accidents. One of major reason is not wearing Helmet while driving.
 
+![alt text](https://rukminim1.flixcart.com/image/612/612/jkk1hu80/helmet/n/c/h/cliff-motorbike-helmet-black-1-ak07-24-full-face-vega-original-imaedhrvhhuzsfhz.jpeg?q=70)
+
 # Helmet compliance
 Using Machine learning we are trying to find the individuals who are not wearing helmet while driving and trying to retrieve their vechicle registration number from their vechicle number plate.  By using the vechicle registration number we can get that vechicle owner details from parivahan api and futher course of action on the defaulters will be decided by the Government or RTO office. 
 
